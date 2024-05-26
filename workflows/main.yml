@@ -14,4 +14,4 @@ jobs:
         pip3 install --upgrade pip
     - name: Run my python
       run: |
-        python3 session.py
+        python3 session01.py
